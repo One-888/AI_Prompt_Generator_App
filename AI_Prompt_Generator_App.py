@@ -4,6 +4,24 @@ import webbrowser
 import time
 import pyautogui
 
+"""
+--------------------------------------------------------------------------------------
+AI Prompt Generator
+--------------------------------------------------------------------------------------
+This script enables users to generate AI prompts based on predefined purposes and
+target audiences. Users can select options from structured dictionaries, provide
+additional details, and generate tailored prompts.
+
+Key Features:
+- Predefined prompt purposes for various needs
+- Audience customization for targeted communication
+- Automated clipboard copying and browser interaction
+
+Author: Richard
+Date: May 5, 2025
+--------------------------------------------------------------------------------------
+"""
+
 
 class PromptGenerator:
     """
